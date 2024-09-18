@@ -12,6 +12,9 @@ module.exports = {
         foreground: "var(--foreground)",
       },
     },
+    fontFamily: {
+      PlayfairDisplay: ['Poppins', 'sans-serif'],
+     },
   },
   plugins: [],
 };
